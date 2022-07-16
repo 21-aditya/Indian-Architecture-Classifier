@@ -14,3 +14,4 @@ The dataset used contains 1700 images which was used for 3 models (Fast- AI VGG,
 
 # Sample Images
 ![alt text](https://github.com/21-aditya/Indian-Architecture-Classifier/blob/Computer_Science/SampleImages/Screenshot%202022-07-16%20at%2010.55.31%20PM.png|width=300px)
+![test image size]<img src="https://github.com/21-aditya/Indian-Architecture-Classifier/blob/Computer_Science/SampleImages/Screenshot%202022-07-16%20at%2010.55.31%20PM.png" width="400" height="400">
